@@ -1,0 +1,12 @@
+RESUME DATASET SUMMARY
+==================================================
+
+Total resumes: 31
+Total characters: 169,669
+Total words: 31
+Average characters per resume: 5473
+Average words per resume: 1
+Median characters per resume: 5744
+Median words per resume: 1
+Shortest resume: 3178 characters
+Longest resume: 7608 characters
