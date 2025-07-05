@@ -1,0 +1,42 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "filename": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "char_length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "word_length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "line_length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,6 @@
+{
+  "tokenizer_type": "gpt2",
+  "max_length": 512,
+  "vocab_size": 50257,
+  "num_samples": 31
+}
