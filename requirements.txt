@@ -1,0 +1,15 @@
+datasets
+torch
+torchvision
+transformers
+numpy
+tiktoken
+tqdm
+fastapi
+pandas
+matplotlib
+pip
+torchaudio  
+accelerate
+python-docx 
+docx2txt
