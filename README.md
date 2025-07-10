@@ -40,3 +40,7 @@ python preplexity_calculation.py
 - **Embedding Dim**: 256
 - **Block Size**: 256
 - **Parameters**: 15.2M
+
+  ## Result
+  <img width="1061" height="325" alt="IMG_5293" src="https://github.com/user-attachments/assets/a90701aa-e324-49a4-a820-88de8b56bebc" />
+
